@@ -1,0 +1,9 @@
+export const userUrl = 'https://test.tetherficloud.com:8125';
+export const workspaceUrl = 'https://tetherfi.cloud:13010';
+export const authUrl = 'https://tetherfi.cloud:13005';
+export const presenceUrl = 'https://tetherfi.cloud:13009';
+export const fileServiceUrl = 'https://tetherfi.cloud:13019';
+export const fileMetaServiceUrl = 'https://tetherfi.cloud:13022';
+export const chatHistoryUrl = 'https://test.tetherficloud.com:25213';
+export const contactServiceUrl = 'https://tetherfi.cloud:13023';
+export const webSocketUrl = 'wss://test.tetherficloud.com:15012';
